@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Saqueb Tanveer"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Research Scholar at IIT Kharagpur"
+  location         : "Department of Physics, IIT Kharagpur"
+  employer         : "IIT Kharagpur"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tanveersaqueb@gmail.com" 
 
   # Academic websites
   academia         : # URL
