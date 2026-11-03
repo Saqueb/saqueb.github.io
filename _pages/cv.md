@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, IIT Kharagpur, 2024 - (on-going)
+* M.Sc. in Physics, IIT Kharagpur, 2024
+* B.Sc. in Physics, Jamia Millia Islamis, 2021
 
+{% comment %}
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -31,7 +32,7 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+{% endcomment %}
 Skills
 ======
 * Skill 1
