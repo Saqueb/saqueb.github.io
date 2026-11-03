@@ -27,9 +27,11 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
+  {% comment %}
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
+  {% endcomment %}
 {% endif %}
 
 
