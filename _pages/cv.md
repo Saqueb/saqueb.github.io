@@ -15,24 +15,28 @@ Education
 * M.Sc. in Physics, IIT Kharagpur, 2024
 * B.Sc. in Physics, Jamia Millia Islamis, 2021
 
-{% comment %}
-Work experience
+
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-24: Masters' Thesis Project
+  * Topic: Statistical tool for the study of Epoch of Reionization
+  * Project Guide: Prof. Somnath Bharadwaj, IIT Kharagpur
+  * Language: C,Python
+* Autumn 2023: Summer Research Project 
+  * Topic: Study of Epoch of Reionization and the related computational backgrounds
+  * Project Guide: Prof. Somnath Bharadwaj, IIT Kharagpur
+  * Language: C,Python
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2023: Project on Quantum Computation
+  * Topic: Finding the equilibrium distance between two atoms in a Hydrogen Molecule and calculating the ground-state & excited-state energies along with the corresponding dipole moments
+  * Project Guide: Prof. Sonjoy Majumder, IIT Kharagpur
+  * Language: Python
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-{% endcomment %}
+* Spring 2021: Computational Physics Project
+  * Topic: Solving Electrostatic system using the method of images
+  * Project Guide: Dr. Anver Aziz & Dr. Rashid Ahmad, JMI
+  * Language: Python
+
 Skills
 ======
 * Languages: Python, C, C++
