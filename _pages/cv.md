@@ -68,6 +68,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Miscellaneous
 ======
-* Currently signed in to 43 different slack teams
+* Hobbies: Reading, Watching movies, Travelling.
